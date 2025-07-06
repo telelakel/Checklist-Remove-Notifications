@@ -1,6 +1,7 @@
 # Telegram Checklist Notification Cleaner Bot
 
 This is a Node.js Telegram bot that automatically deletes system notification messages related to checklist task updates (both "done" and "not done" tasks) in group chats.
+Created with t.me/telelakel and Grok AI.
 
 ## Features
 
@@ -19,8 +20,8 @@ This is a Node.js Telegram bot that automatically deletes system notification me
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/telelakel/Checklist-Remove-Notifications.git
+   cd Checklist-Remove-Notifications
    ```
 
 2. Install the required dependencies:
